@@ -11,7 +11,22 @@
       "name": "experiences",
       "data": [
         {
-          "title": "<strong>Capgemini</strong><br>Data Analyst<br>(10/2019 - ?)",
+          "title": "<strong>Certsys</strong><br>Developer<br>(09/2020 - ?)",
+          "url": "https://www.certsys.com.br/",
+          "text": "",
+          "list": {
+            "show": false,
+            "title": "example",
+            "skills": []
+          },
+          "link": {
+            "show": false,
+            "label": "09/2020 - ?",
+            "url": "https://www.certsys.com.br/"
+          }
+        },
+        {
+          "title": "<strong>Capgemini</strong><br>Data Analyst<br>(10/2019 - 09/2020)",
           "url": "https://www.capgemini.com/",
           "text": "",
           "list": {
@@ -21,7 +36,7 @@
           },
           "link": {
             "show": false,
-            "label": "06/2019 - ?",
+            "label": "06/2019 - 09/2020",
             "url": "https://www.capgemini.com/"
           }
         },
@@ -303,7 +318,7 @@
     },
     {
       "type": "swipe-certified",
-      "icon": "fab fa-slideshare fa-2x animated infinite pulse",
+      "icon": "fas fa-brain fa-2x animated infinite pulse",
       "name": "Certifieds",
       "data": [
         {
