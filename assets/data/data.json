@@ -41,7 +41,7 @@
           }
         },
         {
-          "title": "<strong>DOCTORGET</strong><br>Freelancer / Kaggle Competitor<br>(02/2018 - ?)",
+          "title": "<strong>samuelsoaress</strong><br>Freelancer / Kaggle Competitor<br>(02/2018 - ?)",
           "text": "",
           "url": "#",
           "list": {
@@ -82,11 +82,11 @@
           "itens": [
             {
               "name": "Flask",
-              "value": 75
+              "value": 60
             },
             {
               "name": "SpringBoot",
-              "value": 55
+              "value": 45
             },
             {
               "name": "NodeJs",
@@ -94,11 +94,11 @@
             },
             {
               "name": "Angular",
-              "value": 65
+              "value": 55
             },
             {
               "name": "Web-Development",
-              "value": 60
+              "value": 70
             },
             {
               "name": "Laravel",
@@ -106,11 +106,11 @@
             },
             {
               "name": "Django",
-              "value": 60
+              "value": 55
             },
             {
               "name": "Microservices",
-              "value": 65
+              "value": 50
             },
             {
               "name": "MySQL",
@@ -131,35 +131,35 @@
           "itens": [
             {
               "name": "Machine Learning",
-              "value": 75
+              "value": 55
             },
             {
               "name": "Deep Learning",
-              "value": 70
-            },
-            {
-              "name": "Pandas",
-              "value": 75
-            },
-            {
-              "name": "Seaborn",
-              "value": 70
-            },
-            {
-              "name": "Matplotlib",
-              "value": 65
-            },
-            {
-              "name": "Spark",
               "value": 60
             },
             {
-              "name": "PySpark",
+              "name": "Pandas",
+              "value": 70
+            },
+            {
+              "name": "Seaborn",
               "value": 50
             },
             {
+              "name": "Matplotlib",
+              "value": 60
+            },
+            {
+              "name": "Spark",
+              "value": 40
+            },
+            {
+              "name": "PySpark",
+              "value": 40
+            },
+            {
               "name": "Statistics",
-              "value": 75
+              "value": 60
             },
             {
               "name": "Data Vizualization",
@@ -204,7 +204,7 @@
             },
             {
               "name": "Linux",
-              "value": 70
+              "value": 60
             },
             {
               "name": "Scrum",
@@ -217,19 +217,19 @@
           "itens": [
             {
               "name": "Python",
-              "value": 95
+              "value": 90
             },
             {
               "name": "R",
-              "value": 70
-            },
-            {
-              "name": "Java",
               "value": 50
             },
             {
+              "name": "Java",
+              "value": 60
+            },
+            {
               "name": "Javascript",
-              "value": 70
+              "value": 75
             },
             {
               "name": "PHP",
@@ -251,9 +251,9 @@
         {
           "title": "Challenge-Neural-Networks-Capgemini",
           "description": "this repository contains the code used to develop the CNN image recognition challenge",
-          "link": "https://github.com/doctorget/Challenge-Neural-Networks-Capgemini",
-          "star": "https://github.com/doctorget/Challenge-Neural-Networks-Capgemini/stargazers",
-          "fork": "https://github.com/doctorget/Challenge-Neural-Networks-Capgemini/network/members",
+          "link": "https://github.com/samuelsoaress/Challenge-Neural-Networks-Capgemini",
+          "star": "https://github.com/samuelsoaress/Challenge-Neural-Networks-Capgemini/stargazers",
+          "fork": "https://github.com/samuelsoaress/Challenge-Neural-Networks-Capgemini/network/members",
           "tecnology": "Jupyter Notebook",
           "style": "background-color: #DA5B0B;",
           "numberStar": 0,
@@ -262,9 +262,9 @@
         {
           "title": "deploy-model-web",
           "description": "Web application with the Tensorflow model for recognizing manuscrits numbers",
-          "link": "https://github.com/doctorget/deploy-model-web",
-          "star": "https://github.com/doctorget/deploy-model-web/stargazers",
-          "fork": "https://github.com/doctorget/deploy-model-web/network/members",
+          "link": "https://github.com/samuelsoaress/deploy-model-web",
+          "star": "https://github.com/samuelsoaress/deploy-model-web/stargazers",
+          "fork": "https://github.com/samuelsoaress/deploy-model-web/network/members",
           "tecnology": "Jupyter Notebook",
           "style": "background-color: #DA5B0B;",
           "numberStar": 0,
@@ -273,9 +273,9 @@
         {
           "title": "Python-Study-DataScience-IA",
           "description": "My data science and AI studies",
-          "link": "https://github.com/doctorget/Python-Study-DataScience-IA",
-          "star": "https://github.com/doctorget/Python-Study-DataScience-IA/stargazers",
-          "fork": "https://github.com/doctorget/Python-Study-DataScience-IA/network/members",
+          "link": "https://github.com/samuelsoaress/Python-Study-DataScience-IA",
+          "star": "https://github.com/samuelsoaress/Python-Study-DataScience-IA/stargazers",
+          "fork": "https://github.com/samuelsoaress/Python-Study-DataScience-IA/network/members",
           "tecnology": "Jupyter Notebook",
           "style": "background-color: #DA5B0B;",
           "numberStar": 1,
@@ -284,9 +284,9 @@
         {
           "title": "Predict-Future-Sales",
           "description": "Machine Learning applied to sales forecast",
-          "link": "https://github.com/doctorget/Predict-Future-Sales",
-          "star": "https://github.com/doctorget/Predict-Future-Sales/stargazers",
-          "fork": "https://github.com/doctorget/Predict-Future-Sales/network/members",
+          "link": "https://github.com/samuelsoaress/Predict-Future-Sales",
+          "star": "https://github.com/samuelsoaress/Predict-Future-Sales/stargazers",
+          "fork": "https://github.com/samuelsoaress/Predict-Future-Sales/network/members",
           "tecnology": "Jupyter Notebook",
           "style": "background-color: #DA5B0B;",
           "numberStar": 0,
@@ -295,9 +295,9 @@
         {
           "title": "Republica Palmares",
           "description": "🖥️ Sistema de cadastro e consulta de alunos, voluntários e doadores da Republica Cultural de Palmares 🔍",
-          "link": "https://github.com/doctorget/RepublicaPalmares",
-          "star": "https://github.com/doctorget/RepublicaPalmares/stargazers",
-          "fork": "https://github.com/doctorget/RepublicaPalmares/network/members",
+          "link": "https://github.com/samuelsoaress/RepublicaPalmares",
+          "star": "https://github.com/samuelsoaress/RepublicaPalmares/stargazers",
+          "fork": "https://github.com/samuelsoaress/RepublicaPalmares/network/members",
           "tecnology": "PHP",
           "style": "background-color:#4F5D95",
           "numberStar": 0,
@@ -306,9 +306,9 @@
         {
           "title": "LMS-Project",
           "description": "🏫 Projeto Learning Management System - Educational Website 🖥️",
-          "link": "https://github.com/doctorget/LMS-Project",
-          "star": "https://github.com/doctorget/LMS-Project/stargazers",
-          "fork": "https://github.com/doctorget/LMS-Project/network/members",
+          "link": "https://github.com/samuelsoaress/LMS-Project",
+          "star": "https://github.com/samuelsoaress/LMS-Project/stargazers",
+          "fork": "https://github.com/samuelsoaress/LMS-Project/network/members",
           "tecnology": "Python",
           "style": "background-color: #3572A5;",
           "numberStar": 0,
